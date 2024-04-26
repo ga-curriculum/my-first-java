@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module introduces learners to the fundamentals of Java programming, starting with the installation of Java on MacOS or Windows systems. Participants will learn to create and execute Java files using the command line, and will be guided through the process of writing the main method, which is essential for running Java programs.
 
 ## Prerequisites
 
