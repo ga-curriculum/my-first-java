@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/my-first-java-setup.png)
 
 **Learning objective:** By the end of this lesson, students will be able to install Java for either MacOS or Windows. 
 

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/getting-java-to-run.png)
 
 **Learning objective:** By the end of this lesson, students will be able to create and run Java files from the command line. 
 

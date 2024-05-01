@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/my-first-java-header.png)
 
 ## About
 
@@ -6,9 +6,7 @@ This module introduces learners to the fundamentals of Java programming, startin
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Java Installfes
 
 ## Content
 
