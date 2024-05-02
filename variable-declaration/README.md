@@ -36,7 +36,4 @@ We'll have a few people demo what they did when they're done.
 
 ## Conclusion (5 min)
 
-- Can you explain the difference between compiling and running a Java program?
 - Without looking at your notes, can you explain the different parts of the `main` method?
-
-_Written by Ryan Fleharty_

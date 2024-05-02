@@ -8,20 +8,6 @@ Before we dive into the nitty-gritty of Java functions and data types, let's wri
 
 With any Java program, you'll first need to create a `class` and its `main` method. Let's find out how to do that.
 
-## Installing the JDK (5 min)
-
-Before we can write any Java code on our local machines, we need to install the Java Development Kit (JDK).
-
-The JDK is a package of tools for developing Java programs. It will run in the background of your computer as you're writing Java code in a text editor or IDE. It's available from Oracle, the company that manages the Java language.
-
-Installing JDK is one of the easiest things you'll do in this course:
-
-1. [Click here](https://www.oracle.com/technetwork/java/javase/downloads/index.html) to visit Oracle's website. Find the latest version of JDK at the top of the page.
-2. On the next page, accept the license agreement and select the file for your operating system.
-3. Follow the installation instructions when the file downloads.
-
-That's it! You're ready to write your first Java code.
-
 ## Code-Along: Howdy Pardner (15 min)
 
 We'll complete this activity using a text editor and the command line.
@@ -105,8 +91,6 @@ Now that our function is ready to roll, how can we get it to run? With Java, we 
 - **Step 1**: Compile the code.
 - **Step 2**: Run the code.
 
-> **Knowledge Check**: Can someone shout out a definition of compiling and why we do it? (Hint: We already covered this.)
-
 #### Step 1: Compile
 
 First, we have to **compile** the code into machine code for the Java Virtual Machine to run.
@@ -122,7 +106,3 @@ JavaScript lets us get away with errors, while Java will enforce its rules befor
 #### Step 2: Run
 
 When the file is successfully compiled, you should notice that a new file with a `.class` extension has been created: This is our compiled `class`. Now, we can actually run the code with the command `java HowdyPardner`. (That's right — we can't run a file until it's compiled. A file with a `.java` extension won't run, but a compiled file with the `.class` extension will run.)
-
-Once we start using the Eclipse IDE, we won't have to do any of this. The application will automatically compile our code when we save the file, and you can run the file by clicking one button.
-
-_Written by Ryan Fleharty_
