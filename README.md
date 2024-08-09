@@ -1,5 +1,7 @@
 # ![[tktk Module Name]](./assets/my-first-java-header.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-java) repo instead.
+
 ## About
 
 This module introduces learners to the fundamentals of Java programming, starting with the installation of Java on MacOS or Windows systems. Participants will learn to create and execute Java files using the command line, and will be guided through the process of writing the main method, which is essential for running Java programs.
